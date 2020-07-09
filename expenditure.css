@@ -1,0 +1,29 @@
+.container-fluid
+{   
+    background-color:black ;
+    color: #f2f2f2;
+}
+
+label{
+  width: 20%;
+  margin: 20px 30px;
+}
+
+input{
+    width: 50%;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.entry
+{
+    width: 50%;
+    margin-left: 5px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    margin: 150px 350px;
+}

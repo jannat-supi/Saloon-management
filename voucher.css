@@ -1,0 +1,75 @@
+.container-fluid
+{	
+	background-color: black;
+	color: #f2f2f2;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+h3{
+    padding: 10px 5px;
+  margin: 5px 10px;
+}
+label{
+  width: 25%;
+  margin: 20px 30px;
+}
+
+select{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px -50px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.entry
+{
+  width: 90%;
+    margin-left: 5px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 0px;
+    margin: 10px 30px;
+}
+.butn3{
+    width: 30%;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 10px;
+    margin: 10px 20px;
+    color: white;
+    background-color: teal;
+}
+.butn3:hover 
+{
+    background-color: #0E6655;
+}

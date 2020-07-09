@@ -1,0 +1,28 @@
+label{
+  width: 20%;
+  margin: 50px 30px;
+  font-weight: bold;
+  color: black;
+}
+input{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.entry
+{
+    width: 40%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px 30px;
+    margin: 250px 370px;
+}
+.container-fluid
+{   
+    background-color: black;
+    color: #f2f2f2;
+}

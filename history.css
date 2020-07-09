@@ -1,0 +1,57 @@
+.container-fluid
+{	
+	background-color: black;
+	color: #f2f2f2;
+}
+.butnone 
+{
+    width: 20%;
+	margin: 100px 150px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+
+.butnone:hover 
+{
+    background-color: #0B5345;
+}
+.butntwo 
+{
+    width: 20%;
+	margin: 100px -60px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+
+.butntwo:hover {
+    background-color: #0B5345;
+}
+.butn3 
+{
+    width: 20%;
+	margin: 100px 120px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+.butn3:hover {
+    background-color: #0B5345;
+}

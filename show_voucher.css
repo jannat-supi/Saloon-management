@@ -1,0 +1,33 @@
+.container-fluid
+{	
+	background-color:black ;
+	color: #f2f2f2;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+{
+    box-sizing: border-box;
+}
+.date{
+	width: 30%;
+	margin: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+input[type=submit] 
+{
+    background-color: teal;
+    border: none;
+    color: white;
+    margin: 10px;
+    padding: 10px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+select{
+    width: 20%;
+    margin: 10px;
+    padding: 10px 10px;
+}
+

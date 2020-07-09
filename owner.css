@@ -1,0 +1,139 @@
+
+.container-fluid
+{	
+	background-color: black;
+}
+
+.butnone 
+{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 9px #283747;
+    width: 20%;
+	margin: 50px 150px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+.butnone:hover 
+{
+    background-color: #0B5345;
+}
+.butntwo 
+{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 9px #283747;
+    width: 20%;
+	margin: 50px -60px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+.butntwo:hover {
+    background-color: #0B5345;
+}
+.butn3 
+{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 9px #283747;
+    width: 20%;
+	margin: 50px 120px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+.butn3:hover {
+    background-color: #0B5345;
+}
+.butn4 
+{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 9px #283747;
+    width: 20%;
+	margin: 30px 150px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+.butn4:hover {
+    background-color: #0B5345;
+}
+.butn5 
+{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 9px #283747;
+    width: 20%;
+    margin: 30px -60px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+.butn5:hover {
+    background-color: #0B5345;
+}
+.butn6 
+{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 9px #283747;
+    width: 20%;
+    margin: 30px 120px;
+    background-color: #16A085;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+.butn6:hover {
+    background-color: #0B5345;
+}
